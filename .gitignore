@@ -34,4 +34,8 @@ lerna-debug.log*
 !.vscode/launch.json
 !.vscode/extensions.json
 
+#configs 폴더
 configs
+
+#env 폴더
+env
