@@ -36,6 +36,7 @@ lerna-debug.log*
 
 #configs 폴더
 configs
+config
 
 #env 폴더
 env
